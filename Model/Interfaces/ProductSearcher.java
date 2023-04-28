@@ -1,7 +1,7 @@
 package Model.Interfaces;
 
 import Model.Classes.WareHouse;
-import Model.View.View;
+import View.View;
 
 public interface ProductSearcher {
     public void findProductByName(WareHouse wareHouse, String productName, View view);
