@@ -1,7 +1,7 @@
 package Model.Classes;
 
 import Model.Interfaces.HomeDeliveryInterface;
-import Model.View.View;
+import View.View;
 
 public class HomeDelivery implements HomeDeliveryInterface {
     @Override
