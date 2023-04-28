@@ -1,6 +1,4 @@
-package Model;
-
-import Model.Controller.Controller;
+import Controller.Controller;
 
 public class Main {
     public static void main(String[] args) {

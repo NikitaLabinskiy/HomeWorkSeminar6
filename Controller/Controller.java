@@ -1,7 +1,7 @@
-package Model.Controller;
+package Controller;
 
 import Model.Classes.*;
-import Model.View.View;
+import View.View;
 
 import java.util.Scanner;
 

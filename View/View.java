@@ -1,4 +1,4 @@
-package Model.View;
+package View;
 
 import Model.Classes.Product;
 import Model.Classes.WareHouse;
