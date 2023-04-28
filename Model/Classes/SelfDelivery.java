@@ -1,7 +1,7 @@
 package Model.Classes;
 
 import Model.Interfaces.SelfDeliveryInterface;
-import Model.View.View;
+import View.View;
 
 public class SelfDelivery implements SelfDeliveryInterface {
     @Override
