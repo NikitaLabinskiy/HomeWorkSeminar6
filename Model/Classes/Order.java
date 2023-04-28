@@ -1,7 +1,7 @@
 package Model.Classes;
 
 import Model.Interfaces.OrderInterface;
-import Model.View.View;
+import View.View;
 
 public class Order implements OrderInterface {
     @Override
