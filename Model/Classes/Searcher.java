@@ -1,7 +1,7 @@
 package Model.Classes;
 
 import Model.Interfaces.ProductSearcher;
-import Model.View.View;
+import View.View;
 
 public class Searcher implements ProductSearcher {
     @Override
